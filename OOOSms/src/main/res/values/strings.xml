@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OOOSms</string>
+    <string name="title_section1">Add OOO Entry</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="list_entry_form_fragment_layout_phone_number">Phone Number:</string>
+    <string name="list_entry_form_fragment_layout_message">Message:</string>
+    <string name="cancel">Cancel</string><string name="accept">Accept</string>
+
+</resources>
